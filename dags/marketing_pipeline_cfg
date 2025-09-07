@@ -1,0 +1,7 @@
+{
+  "source_type": "local",
+  "source_path": "data/sample_campaign.csv",
+  "target": "sqlite:///tmp/marketing_demo.db",
+  "expected_columns": ["user_id","event_ts","campaign","cost","revenue"],
+  "table_name": "marketing_events"
+}
