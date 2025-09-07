@@ -1,0 +1,7 @@
+apache-airflow==2.6.3
+apache-airflow-providers-amazon
+apache-airflow-providers-google
+pandas
+pyarrow
+sqlalchemy
+pyarrow
